@@ -1,0 +1,21 @@
+AULA 1 - VERSIONAMENTO DE CÓDIGO
+#O git é uma ferramenta de versionamento de código.
+#O versionamento de código é importante para o controle e gerenciamento de um projeto de software, onde à diversas alterações.
+#Podemos utilizar o git com #Github, #gitlab ou #gitbucket
+
+
+AULA 2 - O QUE É O GIT?
+#O git é basicamente um sistema de controle de versões. Atualmente ele é o mais utilizado do mundo.
+#O git é baseado em repositórios, que contém todas as versões do código armazenado
+#O git é um projeto de código aberto
+
+
+ErroComum de principiante: O git não é o github ou gitlab ou gitbucket, o git é uma ferramenta de versionamento de código.
+O github ou gitlab é uma plataforma que armazena os projetos com versionamento git. 
+
+AULA 3 - O QUE É UM REPOSITORIO?
+#Um repositório é um local onde é armazenado o codigo.
+
+AULA 4 - O QUE É O GITHUB?
+#O github é uma plataforma de gerenciamento de repositórios.
+        #Comando que aprendemos é o "git init". O "git init" inicia um projeto git para podermos versionar no projeto.
