@@ -44,5 +44,13 @@ Usar o "git add" para adicionar os arquivos alterados
 Usar o "git commit" para preparar o envio dos arquivos adicionados
 É possivel usar o "git push" para enviar o código
 
-rsrsrsrs
+AULA 9 - USAND O GIT PULL
+#O "git pull" é um comando EXTREMAMENTE IMPORTANTE PARA ATUALIZAR O PROJETO LOCAL COM O remoto
+
+#NOTA IMPORTANTE" : não pode esquecer de fazer o git pull sempre para atualizar a branch com a master!!
+
+AULA 10 - USANDO O GIT CLONE
+#O "git clone" é o comando para baixar o repo do servidor (gitlab ou github) remoto para sua maquina 
+#O comando funciona da seguinte maneira "git clone ...(voce pode usar o https ou SSH)
+
 
