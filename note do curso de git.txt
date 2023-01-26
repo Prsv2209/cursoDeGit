@@ -19,3 +19,15 @@ AULA 3 - O QUE É UM REPOSITORIO?
 AULA 4 - O QUE É O GITHUB?
 #O github é uma plataforma de gerenciamento de repositórios.
         #Comando que aprendemos é o "git init". O "git init" inicia um projeto git para podermos versionar no projeto.
+
+AULA 5 - USANDO GIT STATUS
+#O "git status" é um comando que verifica o status do seu projeto local (que está na sua maquina). Caso o projeto tenha ganhado modificações, o git status
+irá apresentar o nome do arquivo ou pasta como "untracked" ou "modified"
+
+AULA 6 - uSANDO O GIT ADD
+#O "git add" é um comando utilizado para adicionar arquivos novos ao projeto utilizado.
+#Podemos adicionar de duas formas:
+    @ UM ARQUIVO ESPECIFICO: git add (nome do arquivo) Ex: git add index.html
+    ou
+    @ TODOS OS ARQUIVOS DE UMA SÓ VEZ:
+
