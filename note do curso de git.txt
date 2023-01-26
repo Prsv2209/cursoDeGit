@@ -29,5 +29,19 @@ AULA 6 - uSANDO O GIT ADD
 #Podemos adicionar de duas formas:
     @ UM ARQUIVO ESPECIFICO: git add (nome do arquivo) Ex: git add index.html
     ou
-    @ TODOS OS ARQUIVOS DE UMA SÓ VEZ:
+    @ TODOS OS ARQUIVOS DE UMA SÓ VEZ: git add .
+
+AULA 7 - USANDO O GIT COMMIT
+#O "git commit" é um comando para "embalar/preparar" tudo que foi adicionado pelo "git add" para o envio no repo remoto
+# o comando funciona da seguinte forma "git commit", podemos enviar um arquivo somente ou podemos enviar tudo que já adicionamos com
+"git commit -a -m "(- m significa mensage, um plus para enviar uma mensagem para saber do que se trata esse commit)"
+
+AULA 8 - USANDO O GIT PUSH
+#O git push serve para enviar o que foi alterado pelo projeto local a repo remoto. Depois de:
+
+Usar o "git status" para ver o que está sendo alterado, o que foi, ou não adicionado.
+Usar o "git add" para adicionar os arquivos alterados
+Usar o "git commit" para preparar o envio dos arquivos adicionados
+É possivel usar o "git push" para enviar o código
+
 
