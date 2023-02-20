@@ -62,3 +62,5 @@ AULA 12 - DELETANDO UMA BRANCH
 AULA 13 - MUDANDO DE BRANCH
 # Para criar e mudar diretamente para uma branch basta digitar "git checkout -b <nome>"
 
+AULA 14 - 
+
