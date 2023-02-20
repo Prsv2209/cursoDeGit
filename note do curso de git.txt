@@ -53,4 +53,8 @@ AULA 10 - USANDO O GIT CLONE
 #O "git clone" é o comando para baixar o repo do servidor (gitlab ou github) remoto para sua maquina 
 #O comando funciona da seguinte maneira "git clone ...(voce pode usar o https ou SSH)
 
+AULA 11 - CRIANDO UMA BRANCH
+# Para criar uma branch basta digitar "git branch <nome>"
 
+AULA 12 - DELETANDO UMA BRANCH
+# Para deletar uma branch basta digitar "git branch -d <nome>"
