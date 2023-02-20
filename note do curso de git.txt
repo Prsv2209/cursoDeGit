@@ -57,4 +57,4 @@ AULA 11 - CRIANDO UMA BRANCH
 # Para criar uma branch basta digitar "git branch <nome>"
 
 AULA 12 - DELETANDO UMA BRANCH
-# Para deletar uma branch basta digitar "git branch -d <nome>"
+# Para deletar uma branch basta digitar "git branch -d <nome>"  ou "git branch --delete <nome>"
