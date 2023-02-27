@@ -66,6 +66,10 @@ AULA 14 - CRIANDO E MUDANDO DE BRANCH
 # Para criar e mudar diretamente para uma branch basta digitar "git checkout -b <nome>"
 
 
+<<<<<<< HEAD
 AULA 15 - UNINDO BRANCHES
 # O codigo de duas branches distintas podem ser unidos pelo comando "git merge <nome>"
+=======
+AULA 14 - Teste guns 2
+>>>>>>> a980a2a6f59103c7b095f091bc8fc05a385819c7
 
