@@ -1,4 +1,4 @@
-AULA 1 - VERSIONAMENTO DE CÓDIGO
+git AULA 1 - VERSIONAMENTO DE CÓDIGO
 #O git é uma ferramenta de versionamento de código.
 #O versionamento de código é importante para o controle e gerenciamento de um projeto de software, onde à diversas alterações.
 #Podemos utilizar o git com #Github, #gitlab ou #gitbucket
@@ -66,5 +66,6 @@ AULA 14 - CRIANDO E MUDANDO DE BRANCH
 # Para criar e mudar diretamente para uma branch basta digitar "git checkout -b <nome>"
 
 
-AULA 14 - Teste guns
+AULA 15 - UNINDO BRANCHES
+# O codigo de duas branches distintas podem ser unidos pelo comando "git merge <nome>"
 
