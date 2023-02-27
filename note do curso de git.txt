@@ -70,3 +70,12 @@ AULA 15 - UNINDO BRANCHES
 # O codigo de duas branches distintas podem ser unidos pelo comando "git merge <nome>"
 
 
+AULA 16 - RESTAURANDO O CODIGO COM STASH
+# O stash serve para "jogar no lixo" alguma mudança efetuada no repositorio com o comando "git stash".
+Após usar o comando, o repo voltará a originalidade em que estava antes da alteração
+
+AULA 17 - RECUPERANDO O GIT STASH
+# Caso queira recuperar alguma alteração em que foi utilizado o "git stash", basta buscar a alteração com "git stash list". Apos o uso desse comando
+é possivel ver uma list com todos os stash's efetuados nesse código.
+
+# Para recupera-lo, basta utilizar o comando "git stash apply <ID da stash>
