@@ -79,3 +79,9 @@ AULA 17 - RECUPERANDO O GIT STASH
 é possivel ver uma list com todos os stash's efetuados nesse código.
 
 # Para recupera-lo, basta utilizar o comando "git stash apply <ID da stash>
+
+AULA 18 - CRIANDO TAGS
+#A tag é diferente do stash, serve como 
+#Podemos criar tags nas branches por meio do comando git tag -a <nome> -m "<msg>"
+#É utilizada para demarcar estágios do desenvolvimento de algum recurso
+
